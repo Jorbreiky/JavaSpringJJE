@@ -1,0 +1,2 @@
+Proyecto que realiza la conexion por JDBC a una base de datos en MySQL,
+donde la base se llama "test" y cuenta con una tabla llamada Alumno.
